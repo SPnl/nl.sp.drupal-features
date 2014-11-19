@@ -1,4 +1,4 @@
-name = content_civinews
+name = SP Feature: CiviCRM Dashboard News
 description = Nieuwsitems op het CiviCRM-dashboard
 core = 7.x
 package = sprbs
