@@ -1,7 +1,6 @@
 {
   "name": "SPnl/nl.sp.drupal-features",
   "description": "Features voor SPnet (zoals views van evenementen)",
-  "version": "1.0.0",
   "type": "drupal-module",
   "authors": [
     {
