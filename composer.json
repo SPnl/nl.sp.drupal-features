@@ -1,7 +1,6 @@
 {
   "name": "spnl/nl.sp.drupal-features",
   "description": "Features voor SPnet (zoals views van evenementen)",
-  "type": "drupal-custom-module",
   "authors": [
     {
       "name": "Kevin Levie",
