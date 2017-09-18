@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SPnet content: Persoon feature.
+ */
+
+include_once 'spnet_content_persoon.features.inc';
