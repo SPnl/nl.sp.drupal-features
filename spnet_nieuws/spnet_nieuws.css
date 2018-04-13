@@ -1,0 +1,10 @@
+.panel-pane li span.field-content.nieuwsbericht a {
+  padding: 0;
+  background-color: white;
+}
+
+.panel-pane li span.field-content.nieuwsbericht a:hover {
+  padding: 0;
+  background-color: white;
+  color: black !important;
+}

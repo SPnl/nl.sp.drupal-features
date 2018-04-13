@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SPNet Nieuws feature.
+ */
+
+include_once 'spnet_nieuws.features.inc';

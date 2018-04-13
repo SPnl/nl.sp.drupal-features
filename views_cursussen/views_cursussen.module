@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Views Cursussen feature.
- */
-
-include_once 'views_cursussen.features.inc';

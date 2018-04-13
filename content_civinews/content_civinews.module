@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the content_civinews feature.
- */
-
-include_once 'content_civinews.features.inc';
